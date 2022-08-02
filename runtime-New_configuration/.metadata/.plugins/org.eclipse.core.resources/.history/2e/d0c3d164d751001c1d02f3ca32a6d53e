@@ -1,0 +1,112 @@
+Department "fil" {
+	Presentation : "La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."
+	Formations {
+	 "Master Info"{
+			Responsable : "Romain Rouvoy"
+			Secrétariats : "Pierre Rigolot"
+			Spécialités {
+				"Génie logiciel" {
+					Presentation :  "Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications."
+					Responsable : "Clément Quinton"
+					Semestres {
+						"Semestre 1"{
+							UEs {
+								"IDM"{
+									Crédits : 6
+									Presentation : "L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."
+									Responsable : "Cédric Dumoulin"
+									Séances {
+										Séance COURS{
+											Responsable : "Cédric Dumoulin"
+											Salle : "Sup.Lavoisier"
+											Groupe : "Tous les groupes"
+										}
+										Séance TP{
+											Responsable : "Micheal Launay"
+											Salle : "M5.A4"
+											Groupe : "1"
+										}
+									}
+								}
+							}
+						}
+						"Semestre 2"{
+							UEs {
+								"IDM"{
+									Crédits : 6
+									Presentation : "L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."
+									Responsable : "Cédric Dumoulin"
+									Séances {
+										Séance COURS{
+											Responsable : "Cédric Dumoulin"
+											Salle : "Sup.Lavoisier"
+											Groupe : "1"
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	
+	
+	
+	Employés {
+		"Romain Rouvoy"{ 
+			Email : "romain.rouvoy@univ-lille.fr"
+			Bureau : "M3.205"
+		},
+		"Pierre Rigolot"{ 
+			Email : "pierre.rigolot@univ-lille.fr"
+			Bureau : "M3.218"
+		},
+		"Clément Quinton"{ 
+			Email : "clement.quinton@univ-lille.fr"
+			Bureau : "M3.185"
+		},
+		"Cédric Dumoulin"{ 
+			Email : "cedric.dumoulin@univ-lille.fr"
+			Bureau : "M3.185"
+		}
+		"Micheal Launay"{ 
+			Email : "micheal.launay@gmail.com"
+			Bureau : "M3.185"
+		}
+	}
+	
+	Batiments {
+		 "M3" {
+			Salles {
+				Salle "205",
+				Salle "220",
+				Salle "218",
+				Salle "185"	
+			}
+		 },
+		 "M5" {
+			Salles {
+				Salle "A4"
+			}
+		 },
+		"Sup" {
+			Salles {
+				Salle "Lavoisier"
+			}
+		 }
+	}
+	
+	Horaires {
+		"Mercredi 08:15" - "09:15",
+		"Mercredi 09:30" - "12:30"
+		
+	}
+	
+
+	
+
+}
+

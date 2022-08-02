@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;portail.fil.transformation/transforms/transformation1.qvto&apos; to &apos;formation2titre.qvto&apos;" description="Rename resource &apos;transformation1.qvto&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="transforms/transformation1.qvto" name="formation2titre.qvto" stamp="1637143351436" updateReferences="true"/>
+</session>

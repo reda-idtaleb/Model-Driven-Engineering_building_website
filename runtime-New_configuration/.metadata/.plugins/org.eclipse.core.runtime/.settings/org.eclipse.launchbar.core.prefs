@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:formation2titre,org.eclipse.launchbar.core.descriptorType.default\:departmentToDocument,org.eclipse.launchbar.core.descriptorType.default\:Generate (1),org.eclipse.launchbar.core.descriptorType.default\:test123,org.eclipse.launchbar.core.descriptorType.default\:Generate,org.eclipse.launchbar.core.descriptorType.default\:Department2Document,org.eclipse.launchbar.core.descriptorType.default\:Generate (2),org.eclipse.launchbar.core.descriptorType.default\:GenerateDomainmodel.mwe2,org.eclipse.launchbar.core.descriptorType.default\:GenerateDomainmodel.mwe2 (1)
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Generate\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Generate\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Generate/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Generate/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:test123/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:test123/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>/home/m1gl/lopeza/Documents/Cours/IDM/idm_fil/portail_pedagogique/bin</location>
+		</link>
+		<link>
+			<name>.link2</name>
+			<type>2</type>
+			<location>/home/m1gl/lopeza/Documents/Cours/IDM/idm_fil/portail_pedagogique</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>/home/m1gl/lopeza/eclipse-workspace/fil.idm.markdown/idm.simplemarkdown.mm/bin</location>
+		</link>
+		<link>
+			<name>.link4</name>
+			<type>2</type>
+			<location>/home/m1gl/lopeza/eclipse-workspace/fil.idm.markdown/idm.simplemarkdown.mm</location>
+		</link>
+	</linkedResources>
+</projectDescription>

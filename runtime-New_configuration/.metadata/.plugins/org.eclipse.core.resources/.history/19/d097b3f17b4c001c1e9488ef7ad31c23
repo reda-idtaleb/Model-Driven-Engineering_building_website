@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:simplemarkdown="http://www.example.org/simplemarkdown">
+  <simplemarkdown:Document name="Portail fil">
+    <contents xsi:type="simplemarkdown:Title" level="1">
+      <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="1">
+      <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="2">
+      <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="3">
+      <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="4">
+      <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Emphasis" text="* Séance CM :"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Groupe : **-"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Horaire : ** Mercredi 08:15- 09:15"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Salle : **M1-Cauchy"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Emphasis" text="* Séance TP:"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Groupe : **1"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Horaire : **Mercredi 09:30-12:30"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Salle : **M5-A4"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Michael Launay"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**E-mail : **michael.launay@gmail.com"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Emphasis" text="* Séance TP:"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Groupe : **2"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Horaire : **Mercredi 09:30-12:30"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Salle : **M3-15"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="2">
+      <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="3">
+      <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+    </contents>
+  </simplemarkdown:Document>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance CM :"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **-"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : ** Mercredi 08:15- 09:15"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M1-Cauchy"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance CM :"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **-"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : ** Mercredi 08:15- 09:15"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M1-Cauchy"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance TP:"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **1"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : **Mercredi 09:30-12:30"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M5-A4"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Michael Launay"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **michael.launay@gmail.com"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **2"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M3-15"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance CM :"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **-"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : ** Mercredi 08:15- 09:15"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M1-Cauchy"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance TP:"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **1"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : **Mercredi 09:30-12:30"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M5-A4"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Michael Launay"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **michael.launay@gmail.com"/>
+  </simplemarkdown:Paragraph>
+</xmi:XMI>

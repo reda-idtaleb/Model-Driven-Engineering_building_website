@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated portail_pedagogique -->
+      <package
+            uri="http://www.example.org/portail_pedagogique"
+            class="portail_pedagogique.Portail_pedagogiquePackage"
+            genModel="model/portail_pedagogique.genmodel"/>
+   </extension>
+
+</plugin>

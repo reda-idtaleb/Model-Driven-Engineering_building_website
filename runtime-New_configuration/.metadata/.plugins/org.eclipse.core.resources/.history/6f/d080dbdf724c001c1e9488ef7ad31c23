@@ -1,0 +1,80 @@
+[comment encoding = UTF-8 /]
+[**
+ * The documentation of the module generate.
+ */]
+[module generate('http://www.example.org/simplemarkdown')]
+
+
+[**
+ * The documentation of the template generateElement.
+ * @param aDocument
+ */]
+[template public generateElement(aDocument : Document)]
+[comment @main/]
+[file (aDocument.name, false, 'UTF-8')]
+[for (content : Block | aDocument.contents)]
+
+	[if (content.oclIsKindOf(Title)) ]
+	 [for (element : TextElement | content.oclAsType(Title).elements)]
+[let titleLevels : String = '###############']
+[titleLevels.substring(titleLevels.size()-content.oclAsType(Title).level+1)/][element.oclAsType(Text).text/]
+[/let]
+	 [/for]
+	[/if]
+	[if (content.oclIsKindOf(Paragraph)) ]
+	 [for (element : TextElement | content.oclAsType(Paragraph).elements) separator ('\n')]
+		[if (element.oclIsKindOf(StrongEmphasis)) ]
+**[element.oclAsType(StrongEmphasis).text/]** 
+		[/if]
+		[if (element.oclIsKindOf(Emphasis)) ]
+*[element.oclAsType(Emphasis).text/]*
+		[/if]
+		[if (element.oclIsKindOf(Text)) ]
+[element.oclAsType(Text).text/]
+		[/if]
+	 [/for]
+	[/if]
+
+[/for]
+[/file]
+[/template]
+[comment encoding = UTF-8 /]
+[**
+ * The documentation of the module generate.
+ */]
+[module generate('http://www.example.org/simplemarkdown')]
+
+
+[**
+ * The documentation of the template generateElement.
+ * @param aDocument
+ */]
+[template public generateElement(aDocument : Document)]
+[comment @main/]
+[file ('Portail.md', false, 'UTF-8')]
+[for (content : Block | aDocument.contents)]
+
+	[if (content.oclIsKindOf(Title)) ]
+	 [for (element : TextElement | content.oclAsType(Title).elements)]
+[let titleLevels : String = '###############']
+[titleLevels.substring(titleLevels.size()-content.oclAsType(Title).level+1)/][element.oclAsType(Text).text/]
+[/let]
+	 [/for]
+	[/if]
+	[if (content.oclIsKindOf(Paragraph)) ]
+	 [for (element : TextElement | content.oclAsType(Paragraph).elements) separator ('\n')]
+		[if (element.oclIsKindOf(StrongEmphasis)) ]
+**[element.oclAsType(StrongEmphasis).text/]** 
+		[/if]
+		[if (element.oclIsKindOf(Emphasis)) ]
+*[element.oclAsType(Emphasis).text/]*
+		[/if]
+		[if (element.oclIsKindOf(Text)) ]
+[element.oclAsType(Text).text/]
+		[/if]
+	 [/for]
+	[/if]
+
+[/for]
+[/file]
+[/template]

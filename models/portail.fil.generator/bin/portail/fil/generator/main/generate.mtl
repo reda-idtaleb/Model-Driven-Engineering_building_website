@@ -1,0 +1,99 @@
+[comment encoding = UTF-8 /]
+[**
+ * The documentation of the module generate.
+ */]
+[module generate('http://www.example.org/portail_pedagogique')]
+
+
+[**
+ * The documentation of the template generateElement.
+ * @param aDepartment
+ */]
+[template public generateElement(aDepartment : Department)]
+[comment @main/]
+[file (aDepartment.name + '.md', false, 'UTF-8')]
+# Department  [aDepartment.name/]
+## Les formations :    
+	[for(training : Training | aDepartment.trainings)]
+## [training.name/] :    
+[training.presentation/];    
+
+**Responsable** :
+
+[for(educationManager : Employee | training.educationManager)]
+[educationManager.name/]    
+Bureau : [educationManager.office.building.name/] [educationManager.office.name/]  
+email : [educationManager.emailAdress/]    
+ 
+[/for]
+
+**Secrétariats pédagogiques** :
+
+[for(secretary : Employee | training.secretaries)]
+[secretary.name/]    
+Bureau : [training.educationManager.office.building.name/] [secretary.office.name/]  
+email : [secretary.emailAdress/]
+[/for]
+### Les spécialités :
+[for( specialty: Specialty | training.specialty)]
+## [specialty.name/]    
+[specialty.presentation/]
+
+**Responsable** :
+
+[specialty.educationManager.name/]    
+Bureau : [training.educationManager.office.building.name/] [specialty.educationManager.office.name/]  
+email : [specialty.educationManager.emailAdress/]    
+
+[for(semester : Semester | specialty.semesters)]
+#### [semester.name/]   
+ 
+[for(subject : Subject | semester.subject)]
+##### [subject.name/]  
+
+   [subject.presentation/] 
+ 
+**Responsable** :
+
+[subject.lecturer.name/]    
+Bureau : [subject.lecturer.office.building.name/] [subject.lecturer.office.name/]  
+email : [subject.lecturer.emailAdress/]    
+
+**Credit** :
+[subject.credit/] ECTS
+
+**Programme** :
+
+<table>
+    <thead>
+        <tr>
+            <th>Groupe </th>
+            <th>Nature</th>
+            <th>Horaire</th>
+            <th>Salle</th>
+            <th>Enseignant</th>
+            <th>e-mail</th>
+        </tr>
+    </thead>
+    <tbody>
+[for(session : Session | subject.sessions)]
+<tr>
+<td>&nbsp;  [session.group.numbe/]  &nbsp; </td>
+<td>&nbsp;   [session.type/]  &nbsp; </td>
+<td>&nbsp;  [session.timeinterval.beginDate/] - [session.timeinterval.endDate/] &nbsp;</td>
+<td>&nbsp;   [session.room.building.name/]-[session.room.name/]  &nbsp;</td>
+<td>&nbsp;   [session.teacher.name/]  &nbsp;</td>
+<td>&nbsp;   [session.teacher.emailAdress/]  &nbsp;</td>
+</tr>
+[/for]
+    </tbody>
+</table>
+        
+
+[/for]			
+		[/for]
+	[/for]
+	[/for]
+
+[/file]
+[/template]

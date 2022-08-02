@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portail_pedagogique:Department xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:portail_pedagogique="http://www.example.org/portail_pedagogique" name="Fil">
+  <building name="M3">
+    <classroom name="205" building="//@building.0"/>
+    <classroom name="15" building="//@building.0"/>
+    <classroom name="80" building="//@building.0"/>
+    <classroom name="222" building="//@building.0"/>
+  </building>
+  <building name="M1">
+    <classroom name="Cauchy" building="//@building.1"/>
+  </building>
+  <building name="M5">
+    <classroom name="A4" building="//@building.2"/>
+    <classroom name=""/>
+  </building>
+  <employees name="Romain Rouvoy" emailAdress="romain.rouvoy@univ-lille.fr" office="//@building.0/@classroom.0"/>
+  <employees name="Pierre Rigolot" emailAdress="pierre.rigolot@univ-lille.fr" office="//@building.0/@classroom.1"/>
+  <employees name="Clément Quinton" emailAdress="clement.quinton@univ-lille.fr" office="//@building.0/@classroom.2"/>
+  <employees name="Cédric Dumoulin" emailAdress="cedric.dumoulin@univ-lille.fr" office="//@building.0/@classroom.0"/>
+  <employees name="Michael Launay" emailAdress="michael.launay@gmail.com"/>
+  <employees name="Laetitia Jourdan" emailAdress="laetitia.jourdan@univ-lille.fr" office="//@building.0/@classroom.3"/>
+  <employees name="Bruno Mahiddine" emailAdress="bruno.mahiddine@univ-lille.fr" office="//@building.0/@classroom.1"/>
+  <employees name="Sylvain Salvati" emailAdress="sylvain.salvati@univ-lille.fr" office="//@building.0/@classroom.3"/>
+  <employees name="Sophie Tison" emailAdress="sophie.tison@univ-lille.fr" office="//@building.0/@classroom.1"/>
+  <employees name="Xavier Le Pallec" emailAdress="xavier.lepallec@univ-lille.fr" office="//@building.0/@classroom.0"/>
+  <employees name="Gilles Grimaud" emailAdress="gilles.grimaud@univ-lille.fr" office="//@building.0/@classroom.3"/>
+  <employees name="Francis  Bossut" emailAdress="francis.bossut@univ-lille.fr" office="//@building.0/@classroom.0"/>
+  <employees name="Lionel Seinturier" emailAdress="lionel.seinturier@univ-lille.fr" office="//@building.0/@classroom.2"/>
+  <employees name="Karim Mouzoun" emailAdress="karim.mouzoun@univ-lille.fr" office="//@building.0/@classroom.0"/>
+  <trainings name="Master Info" presentation="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications." educationManager="//@employees.0" secretaries="//@employees.1">
+    <specialty name="Génie Logiciel" presentation="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications" educationManager="//@employees.2">
+      <semesters name="Semestre 1">
+        <subject name="IDM" lecturer="//@employees.3" credit="6" presentation="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée.">
+          <sessions teacher="//@employees.3" timeinterval="//@temporalresource.0" room="//@building.1/@classroom.0">
+            <group numbe="-"/>
+          </sessions>
+          <sessions teacher="//@employees.4" timeinterval="//@temporalresource.1" room="//@building.2/@classroom.0" type="TP">
+            <group numbe="1"/>
+          </sessions>
+          <sessions teacher="//@employees.3" timeinterval="//@temporalresource.1" room="//@building.0/@classroom.1" type="TP">
+            <group numbe="2"/>
+          </sessions>
+        </subject>
+        <subject name="ACT" lecturer="//@employees.8" credit="6" presentation="Les Paradigmes classiques de conception d'algorithmes (programmation dynamique, diviser et régner, algorithmes gloutons, backtracking, ...) (resp. S. Tison)"/>
+        <subject name="IIR" lecturer="//@employees.9" presentation="Cette unité se déroule au S1 du master Informatique. Il s'agit d'une UE obligatoire de cette mention.&#xA;Le module d’IIR en 1e année de Master vise à vous sensibiliser aux problématiques, activités et méthodologies mises en œuvre de la R&amp;D en Informatique. Ce module se compose de cours, de TD/TP et d’activités—parmi lesquelles la journée RIC et le mémoire de Master que vous devez rédiger (clé module tpu29m pour plus de détails sur ce mémoire).&#xA;Durant les 3 premières séances d’IIR du jeudi matin (8h–10h), vous assisterez à des conférences vous présentant le paysage de la recherche française ainsi que différentes problématiques. La présence à ces conférences est obligatoire et elles auront toutes lieu dans l’amphithéâtre du M1 Cauchy."/>
+        <subject name="Anglais" lecturer="//@employees.2" credit="6"/>
+        <subject name="PJE" lecturer="//@employees.2" credit="6" presentation="&#xA;&#xA;Les étudiants en formation initiale auront l’occasion de développer un projet interdisciplinaire tout au long du premier semestre.&#xA;"/>
+      </semesters>
+      <semesters name="Semestre 2">
+        <subject name="ASE" lecturer="//@employees.10" credit="6" presentation="&#xA;&#xA;L’objectif de cette UE est de donner aux étudiants la maitrise des systèmes d’exploitations qui supportent l’exécutions de leurs programmes. A l’issue de ces enseignements l’étudiant doit comprendre l’architecture générale des logiciels qui compose d’un système d’exploitation. Il doit être en mesure de réaliser des pilotes de matériel efficaces et de justifier les performances d’un logiciel au regard du système et du matériel sur lequel il repose. Enfin il doit pouvoir concevoir et contribuer à la réalisation et/ou à la maintenance de piles logicielles complètes.&#xA;Programme succinct"/>
+        <subject name="ISI" lecturer="//@employees.10" credit="6" presentation="&#xA;&#xA;Les objectifs de ce module sont les suivants :&#xA;&#xA;    Connaitre les concepts principaux de sécurité (authentification, confidentalité, etc.) et les risques associés&#xA;    Connaitre les outils permettant de détecter les vulnérabilités logicielles (fuzzing, analyse statique, etc.)&#xA;    Savoir déployer des stratégies de mitigation pour limiter l’impact d’une vulnérabilité (séparation de privilèges, virtualisation, etc.)&#xA;&#xA;"/>
+      </semesters>
+    </specialty>
+  </trainings>
+  <trainings name="Master Miage" presentation=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens " educationManager="//@employees.5 //@employees.7" secretaries="//@employees.6">
+    <specialty name="Miage" presentation="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. " educationManager="//@employees.5" secretaries="//@employees.6">
+      <semesters name="Semestre 1">
+        <subject name="BDA" lecturer="//@employees.11" credit="6" presentation="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+        <subject name="CAR" lecturer="//@employees.12" credit="6" presentation="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+      </semesters>
+      <semesters name="Semestre 2">
+        <subject name="CP" lecturer="//@employees.13" credit="6" presentation="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+        <subject name="Entrepôts de Données" lecturer="//@employees.5" credit="6" presentation="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+      </semesters>
+    </specialty>
+    <specialty name="IPINT" presentation="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). " educationManager="//@employees.5" secretaries="//@employees.6">
+      <semesters name="Semestre 1">
+        <subject name="COM" lecturer="//@employees.1" presentation=" À l'issue de l'enseignement, l'étudiant·e est capable :&#xA;&#xA;    D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement&#xA;    D’établir une communication bienveillante avec son interlocuteur (Les bases de la communication- verbal, non verbal, les émotions)"/>
+      </semesters>
+      <semesters name="Semestre 2"/>
+    </specialty>
+  </trainings>
+  <temporalresource xsi:type="portail_pedagogique:TimeInterval" beginDate=" Mercredi 08:15" endDate=" 09:15"/>
+  <temporalresource xsi:type="portail_pedagogique:TimeInterval" beginDate="Mercredi 09:30" endDate="12:30"/>
+</portail_pedagogique:Department>

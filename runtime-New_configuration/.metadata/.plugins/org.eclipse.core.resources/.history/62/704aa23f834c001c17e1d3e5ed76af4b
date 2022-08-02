@@ -1,0 +1,2160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:simplemarkdown="http://www.example.org/simplemarkdown">
+  <simplemarkdown:Document name="Portail fil">
+    <contents xsi:type="simplemarkdown:Title" level="1">
+      <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="1">
+      <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="2">
+      <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="3">
+      <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="4">
+      <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="4">
+      <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="CP"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="4">
+      <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="COM"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text=" À l'issue de l'enseignement, l'étudiant·e est capable : D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="2">
+      <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="3">
+      <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="4">
+      <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Emphasis" text="* Séance CM :"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Groupe : **-"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Horaire : ** Mercredi 08:15- 09:15"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Salle : **M1-Cauchy"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Emphasis" text="* Séance TP:"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Groupe : **1"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Horaire : **Mercredi 09:30-12:30"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Salle : **M5-A4"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Michael Launay"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**E-mail : **michael.launay@gmail.com"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Emphasis" text="* Séance TP:"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Groupe : **2"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Horaire : **Mercredi 09:30-12:30"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Salle : **M3-15"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="ACT"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Les Paradigmes classiques de conception d'algorithmes (programmation dynamique, diviser et régner, algorithmes gloutons, backtracking, ...) (resp. S. Tison)"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Sophie Tison"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : sophie.tison@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="IIR"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="Cette unité se déroule au S1 du master Informatique. Il s'agit d'une UE obligatoire de cette mention.&#xA;Le module d’IIR en 1e année de Master vise à vous sensibiliser aux problématiques, activités et méthodologies mises en œuvre de la R&amp;D en Informatique. Ce module se compose de cours, de TD/TP et d’activités—parmi lesquelles la journée RIC et le mémoire de Master que vous devez rédiger (clé module tpu29m pour plus de détails sur ce mémoire).&#xA;Durant les 3 premières séances d’IIR du jeudi matin (8h–10h), vous assisterez à des conférences vous présentant le paysage de la recherche française ainsi que différentes problématiques. La présence à ces conférences est obligatoire et elles auront toutes lieu dans l’amphithéâtre du M1 Cauchy."/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Xavier Le Pallec"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : xavier.lepallec@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="Anglais"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="PJE"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="&#xA;&#xA;Les étudiants en formation initiale auront l’occasion de développer un projet interdisciplinaire tout au long du premier semestre.&#xA;"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="4">
+      <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="ASE"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="&#xA;&#xA;L’objectif de cette UE est de donner aux étudiants la maitrise des systèmes d’exploitations qui supportent l’exécutions de leurs programmes. A l’issue de ces enseignements l’étudiant doit comprendre l’architecture générale des logiciels qui compose d’un système d’exploitation. Il doit être en mesure de réaliser des pilotes de matériel efficaces et de justifier les performances d’un logiciel au regard du système et du matériel sur lequel il repose. Enfin il doit pouvoir concevoir et contribuer à la réalisation et/ou à la maintenance de piles logicielles complètes.&#xA;Programme succinct"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="- Gilles Grimaud"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+      <elements xsi:type="simplemarkdown:Text" text="    Email : gilles.grimaud@univ-lille.fr"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Title" level="5">
+      <elements xsi:type="simplemarkdown:Text" text="ISI"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="&#xA;&#xA;Les objectifs de ce module sont les suivants : Connaitre les concepts principaux de sécurité (authentification, confidentalité, etc.) et les risques associés et Connaitre les outils permettant de détecter les vulnérabilités logicielles (fuzzing, analyse statique, etc.)"/>
+    </contents>
+    <contents xsi:type="simplemarkdown:Paragraph">
+      <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+    </contents>
+  </simplemarkdown:Document>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="COM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" À l'issue de l'enseignement, l'étudiant·e est capable : D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="COM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" À l'issue de l'enseignement, l'étudiant·e est capable : D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="COM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" À l'issue de l'enseignement, l'étudiant·e est capable : D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="COM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" À l'issue de l'enseignement, l'étudiant·e est capable : D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance CM :"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **-"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : ** Mercredi 08:15- 09:15"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M1-Cauchy"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **1"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M5-A4"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Michael Launay"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **michael.launay@gmail.com"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="COM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" À l'issue de l'enseignement, l'étudiant·e est capable : D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="COM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" À l'issue de l'enseignement, l'étudiant·e est capable : D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance CM :"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **-"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : ** Mercredi 08:15- 09:15"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M1-Cauchy"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance TP:"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : **Mercredi 09:30-12:30"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Portail fil"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="1">
+    <elements xsi:type="simplemarkdown:Text" text="Les formations :"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Miage"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sylvain Salvati"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sylvain.salvati@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Bruno Mahiddine"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : bruno.mahiddine@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="BDA"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Comprendre une partie du fonctionnement interne des Systèmes de Gestion de Bases de Données (SGBD) relationnels pour savoir comment il est possible de gérer de très grandes quantités de données, plusieurs utilisateurs concurrents, et utiliser les SGBD au mieux de leurs capacités.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Francis  Bossut"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : francis.bossut@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CAR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Après une introduction exposant les problèmes rencontrés dans le cadre des applications réparties (communication, sécurité, capacité de croissance, communication, etc.), la première partie présente les solutions systèmes (concurrence, thread, synchronisation) et réseaux (TCP, UDP, Multicast-IP) de base pour mettre en œuvre des architectures client/serveur, et illustre ces architectures avec les protocoles applicatifs d’Internet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Lionel Seinturier"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : lionel.seinturier@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 2"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="CP"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Connaître les problèmes soulevés par la gestion de projet nouvelles technologies, se familiariser avec les principales techniques à mettre en œuvre, apprendre à anticiper pour atteindre les objectifs du projet. "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Karim Mouzoun"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : karim.mouzoun@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Entrepôts de Données"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="De nombreux moyens informatiques sont aujourd’hui mis en œuvre pour aider les organes de décision des entreprises et l’entrepôt de données (Datawarehouse) qui définit un support au système d’information décisionnel est un élément fondamental pour la prise de décision. Le but du cours est de familiariser l’étudiant avec les concepts d’entrepôt de données et notamment en lui apprenant à utiliser les méthodes d’organisation de grands ensembles de données ainsi que les outils et techniques permettant de les interroger et les explorer."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le Master mention Méthodes informatiques appliquées à la gestion des entreprises (MIAGE) forme des informaticien·ne·s expert·e·s en ingénierie et management des systèmes d’information. Un·e «miagiste» a de solides bases théoriques et des compétences technologiques en informatique, mais également en communication, gestion des organisations, et management de projets. L'intitulé du parcours est Ingénierie de projets informatiques - nouvelles technologies (IPI-NT). "/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Laetitia Jourdan"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 222"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : laetitia.jourdan@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="COM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text=" À l'issue de l'enseignement, l'étudiant·e est capable : D’identifier le process général d’une entreprise, de réaliser un Curriculum Vitae adapté et de performer dans un entretien de recrutement"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="2">
+    <elements xsi:type="simplemarkdown:Text" text="Master Info"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Romain Rouvoy"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : romain.rouvoy@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Secrétariats pédagogiques"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Pierre Rigolot"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : pierre.rigolot@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="3">
+    <elements xsi:type="simplemarkdown:Text" text="Les spécialités"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsables"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Clément Quinton"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 80"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : clement.quinton@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="4">
+    <elements xsi:type="simplemarkdown:Text" text="Semestre 1"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IDM"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Responsable"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Cédric Dumoulin"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:StrongEmphasis" text="Programme"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance CM :"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **-"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : ** Mercredi 08:15- 09:15"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M1-Cauchy"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Cédric Dumoulin"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **cedric.dumoulin@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Emphasis" text="* Séance TP:"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **1"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Horaire : **Mercredi 09:30-12:30"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M5-A4"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Enseignant : **Michael Launay"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**E-mail : **michael.launay@gmail.com"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Groupe : **2"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Salle : **M3-15"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="ACT"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Les Paradigmes classiques de conception d'algorithmes (programmation dynamique, diviser et régner, algorithmes gloutons, backtracking, ...) (resp. S. Tison)"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Sophie Tison"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 15"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : sophie.tison@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="IIR"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="Cette unité se déroule au S1 du master Informatique. Il s'agit d'une UE obligatoire de cette mention.&#xA;Le module d’IIR en 1e année de Master vise à vous sensibiliser aux problématiques, activités et méthodologies mises en œuvre de la R&amp;D en Informatique. Ce module se compose de cours, de TD/TP et d’activités—parmi lesquelles la journée RIC et le mémoire de Master que vous devez rédiger (clé module tpu29m pour plus de détails sur ce mémoire).&#xA;Durant les 3 premières séances d’IIR du jeudi matin (8h–10h), vous assisterez à des conférences vous présentant le paysage de la recherche française ainsi que différentes problématiques. La présence à ces conférences est obligatoire et elles auront toutes lieu dans l’amphithéâtre du M1 Cauchy."/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="- Xavier Le Pallec"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Bureau : M3 205"/>
+    <elements xsi:type="simplemarkdown:Text" text="    Email : xavier.lepallec@univ-lille.fr"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **0 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="Anglais"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Title level="5">
+    <elements xsi:type="simplemarkdown:Text" text="PJE"/>
+  </simplemarkdown:Title>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="&#xA;&#xA;Les étudiants en formation initiale auront l’occasion de développer un projet interdisciplinaire tout au long du premier semestre.&#xA;"/>
+  </simplemarkdown:Paragraph>
+  <simplemarkdown:Paragraph>
+    <elements xsi:type="simplemarkdown:Text" text="**Credit : **6 ECTs"/>
+  </simplemarkdown:Paragraph>
+</xmi:XMI>

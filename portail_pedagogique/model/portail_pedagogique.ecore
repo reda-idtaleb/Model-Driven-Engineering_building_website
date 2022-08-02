@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="portail_pedagogique" nsURI="http://www.example.org/portail_pedagogique"
+    nsPrefix="portail_pedagogique">
+  <eClassifiers xsi:type="ecore:EClass" name="NamedEntity" abstract="true" eSuperTypes="#//Entity">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Training" eSuperTypes="#//NamedEntity">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="specialty" upperBound="-1"
+        eType="#//Specialty" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="presentation" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="educationManager" lowerBound="1"
+        upperBound="-1" eType="#//Employee"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="secretaries" upperBound="-1"
+        eType="#//Employee"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Specialty" eSuperTypes="#//NamedEntity">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="presentation" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="educationManager" eType="#//Employee"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="secretaries" upperBound="-1"
+        eType="#//Employee"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="semesters" upperBound="-1"
+        eType="#//Semester" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Entity"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Subject" eSuperTypes="#//NamedEntity">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="lecturer" eType="#//Employee"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="credit" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="presentation" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="sessions" upperBound="-1"
+        eType="#//Session" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Employee" eSuperTypes="#//Ressources #//NamedEntity">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="emailAdress" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="office" eType="#//Room"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Group">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="numbe" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Room" eSuperTypes="#//NamedEntity">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="building" eType="#//Building"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Ressources" abstract="true" interface="true"/>
+  <eClassifiers xsi:type="ecore:EClass" name="TimeInterval" eSuperTypes="#//TemporalResource">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="beginDate" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="endDate" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Building" eSuperTypes="#//NamedEntity #//Ressources">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="classroom" upperBound="-1"
+        eType="#//Room" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Session">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="teacher" eType="#//Employee"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="timeinterval" eType="#//TimeInterval"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="room" eType="#//Room"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="group" eType="#//Group"
+        containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="type" eType="#//SessionKind"
+        defaultValueLiteral="COURS"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Department" eSuperTypes="#//NamedEntity">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="building" upperBound="-1"
+        eType="#//Building" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="employees" upperBound="-1"
+        eType="#//Employee" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="trainings" upperBound="-1"
+        eType="#//Training" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="temporalresource" upperBound="-1"
+        eType="#//TemporalResource" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="presentation" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="TemporalResource" abstract="true" eSuperTypes="#//Ressources"/>
+  <eClassifiers xsi:type="ecore:EEnum" name="SessionKind">
+    <eLiterals name="COURS" literal="LECTURE"/>
+    <eLiterals name="TP" value="1" literal="TP"/>
+    <eLiterals name="TD" value="2" literal="TD"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="SemesterKind">
+    <eLiterals name="S1" literal="S1"/>
+    <eLiterals name="S2" value="1" literal="S2"/>
+    <eLiterals name="S3" value="2" literal="S3"/>
+    <eLiterals name="S4" value="3" literal="S4"/>
+    <eLiterals name="S5" value="4" literal="S5"/>
+    <eLiterals name="S6" value="5" literal="S6"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Semester">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="subject" upperBound="-1"
+        eType="#//Subject" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="semester" eType="#//SemesterKind"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+</ecore:EPackage>

@@ -1,0 +1,17 @@
+modeltype portail_pedagogiqueMM "strict" uses "http://www.example.org/portail_pedagogique";
+modeltype simpleMarkdawnMM "strict" uses "http://www.example.org/simplemarkdown";
+
+transformation formation2titre( in portail : portail_pedagogiqueMM, out simplemm : simpleMarkdawnMM );
+
+main() {
+	portail.rootObjects().allSubobjectsOfType(Training)[Training] -> map formation2Titre();
+}
+
+mapping portail_pedagogiqueMM::Training::formation2Titre(): simpleMarkdawnMM::Title {
+	level := 2;
+	elements += self.name -> map name2Text();
+}
+
+mapping String::name2Text(): simpleMarkdawnMM::Text {
+	text := self ;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portail_pedagogique:Department xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:portail_pedagogique="http://www.example.org/portail_pedagogique">
+  <building name="M5">
+    <classroom name="A4"/>
+  </building>
+  <building name="M3">
+    <classroom name="25"/>
+  </building>
+  <humanresource name="Cédric Dumoulin" emailAdress="cedric.dumoulin@univ-lille.fr" office="//@building.1/@classroom.0"/>
+  <humanresource name="Michael Launay" emailAdress="michael.launay@gmail.com"/>
+  <training name="Master">
+    <specialty name="Génie Logiciel" presentation="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications">
+      <subject name="IDM" credit="6" presentation="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible">
+        <sessions teacher="//@humanresource.1" room="//@building.0/@classroom.0"/>
+      </subject>
+    </specialty>
+  </training>
+  <temporalresource xsi:type="portail_pedagogique:TimeInterval"/>
+</portail_pedagogique:Department>

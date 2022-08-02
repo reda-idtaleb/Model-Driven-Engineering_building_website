@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/portail_pedagogique/src-gen" creationIcons="false"
+    editDirectory="/portail_pedagogique.edit/src-gen" editorDirectory="/portail_pedagogique.editor/src-gen"
+    modelPluginID="portail_pedagogique" modelName="Portail_pedagogique" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    codeFormatting="true" importerID="org.eclipse.emf.importer.ecore" complianceLevel="5.0"
+    copyrightFields="false" operationReflection="true" importOrganizing="true">
+  <foreignModel>portail_pedagogique.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="Portail_pedagogique" disposableProviderFactory="true" ecorePackage="portail_pedagogique.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="portail_pedagogique.ecore#//SessionKind">
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SessionKind/COURS"/>
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SessionKind/TP"/>
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SessionKind/TD"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="portail_pedagogique.ecore#//SemesterKind">
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SemesterKind/S1"/>
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SemesterKind/S2"/>
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SemesterKind/S3"/>
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SemesterKind/S4"/>
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SemesterKind/S5"/>
+      <genEnumLiterals ecoreEnumLiteral="portail_pedagogique.ecore#//SemesterKind/S6"/>
+    </genEnums>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//NamedEntity">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//NamedEntity/name"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Training">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Training/specialty"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Training/presentation"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Training/educationManager"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Training/secretaries"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Specialty">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Specialty/presentation"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Specialty/educationManager"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Specialty/secretaries"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Specialty/semesters"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Entity"/>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Subject">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Subject/lecturer"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Subject/credit"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Subject/presentation"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Subject/sessions"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Employee">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Employee/emailAdress"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Employee/office"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Group">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Group/numbe"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Room">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Room/building"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Ressources"/>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//TimeInterval">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//TimeInterval/beginDate"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//TimeInterval/endDate"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Building">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Building/classroom"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Session">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Session/teacher"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Session/timeinterval"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Session/room"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Session/group"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Session/type"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Department">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Department/building"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Department/employees"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Department/trainings"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Department/temporalresource"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Department/presentation"/>
+    </genClasses>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//TemporalResource"/>
+    <genClasses ecoreClass="portail_pedagogique.ecore#//Semester">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference portail_pedagogique.ecore#//Semester/subject"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Semester/semester"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute portail_pedagogique.ecore#//Semester/name"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portail_pedagogique:Department xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:portail_pedagogique="http://www.example.org/portail_pedagogique" name="Fil">
+  <building name="M3">
+    <classroom name="205" building="//@building.0"/>
+    <classroom name="15" building="//@building.0"/>
+    <classroom name="80" building="//@building.0"/>
+    <classroom name="222" building="//@building.0"/>
+  </building>
+  <building name="M1">
+    <classroom name="Cauchy" building="//@building.1"/>
+  </building>
+  <building name="M5">
+    <classroom name="A4" building="//@building.2"/>
+  </building>
+  <employees name="Romain Rouvoy" emailAdress="romain.rouvoy@univ-lille.fr" office="//@building.0/@classroom.0"/>
+  <employees name="Pierre Rigolot" emailAdress="pierre.rigolot@univ-lille.fr" office="//@building.0/@classroom.1"/>
+  <employees name="Clément Quinton" emailAdress="clement.quinton@univ-lille.fr" office="//@building.0/@classroom.2"/>
+  <employees name="Cédric Dumoulin" emailAdress="cedric.dumoulin@univ-lille.fr" office="//@building.0/@classroom.0"/>
+  <employees name="Michael Launay" emailAdress="michael.launay@gmail.com"/>
+  <employees name="Laetitia Jourdan" emailAdress="laetitia.jourdan@univ-lille.fr" office="//@building.0/@classroom.3"/>
+  <employees name="Bruno Mahiddine" emailAdress="bruno.mahiddine@univ-lille.fr" office="//@building.0/@classroom.1"/>
+  <employees name="Sylvain Salvati" emailAdress="sylvain.salvati@univ-lille.fr" office="//@building.0/@classroom.3"/>
+  <trainings name="Master Info" presentation="La mention informatique du master sciences et technologies de l'université de Lille a pour objectifs d'apporter aux étudiants des compétences de haut niveau, à la fois sur le plan théorique et pratique, dans le secteur des sciences de l'information et des technologies des communications." educationManager="//@employees.0" secretaries="//@employees.1">
+    <specialty name="Génie Logiciel" presentation="Le master mention Informatique de l'Université de Lille propose une formation de pointe pour les étudiants qui ciblent un poste de cadre dans le secteur des sciences de l'information et des technologies des communications" educationManager="//@employees.2">
+      <semesters name="Semestre 1">
+        <subject name="IDM" lecturer="//@employees.3" credit="6" presentation="L’objectif de cette UE est d’apprendre à concevoir des applications orientés objets de façon systématique et reproductible. Cette conception se base sur la réalisation de modèles UML représentant l’application à un haut niveau d’abstraction. A la fin de cette UE, l’étudiant.e sera capable d’établir les fonctionnalités d’une application (poser le problème), de concevoir l’application (proposer et analyser des solutions), et de réaliser l’application en suivant la solution proposée.">
+          <sessions teacher="//@employees.3" timeinterval="//@temporalresource.0" room="//@building.1/@classroom.0">
+            <group numbe="-"/>
+          </sessions>
+          <sessions teacher="//@employees.4" timeinterval="//@temporalresource.1" room="//@building.2/@classroom.0" type="TP">
+            <group numbe="1"/>
+          </sessions>
+          <sessions teacher="//@employees.3" timeinterval="//@temporalresource.1" room="//@building.0/@classroom.1" type="TP">
+            <group numbe="2"/>
+          </sessions>
+        </subject>
+      </semesters>
+    </specialty>
+  </trainings>
+  <trainings name="Master Miage" presentation=" Centrée sur l'ingénierie des systèmes d'information, la MIAGE a pour vocation de former des informaticiens " educationManager="//@employees.5 //@employees.7" secretaries="//@employees.6"/>
+  <temporalresource xsi:type="portail_pedagogique:TimeInterval" beginDate=" Mercredi 08:15" endDate=" 09:15"/>
+  <temporalresource xsi:type="portail_pedagogique:TimeInterval" beginDate="Mercredi 09:30" endDate="12:30"/>
+</portail_pedagogique:Department>

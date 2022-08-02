@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated portail_pedagogique -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="portail_pedagogique.presentation.Portail_pedagogiqueModelWizardID"
+            name="%_UI_Portail_pedagogiqueModelWizard_label"
+            class="portail_pedagogique.presentation.Portail_pedagogiqueModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/Portail_pedagogiqueModelFile.gif">
+         <description>%_UI_Portail_pedagogiqueModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated portail_pedagogique -->
+      <editor
+            id="portail_pedagogique.presentation.Portail_pedagogiqueEditorID"
+            name="%_UI_Portail_pedagogiqueEditor_label"
+            icon="icons/full/obj16/Portail_pedagogiqueModelFile.gif"
+            extensions="portail_pedagogique"
+            class="portail_pedagogique.presentation.Portail_pedagogiqueEditor"
+            contributorClass="portail_pedagogique.presentation.Portail_pedagogiqueActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

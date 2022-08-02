@@ -1,0 +1,114 @@
+modeltype portail_pedagogiqueMM "strict" uses "http://www.example.org/portail_pedagogique";
+modeltype simpleMarkdawnMM "strict" uses "http://www.example.org/simplemarkdown";
+
+transformation Department2Document(in portail : portail_pedagogiqueMM, out simplemm : simpleMarkdawnMM);
+
+main() {
+	var document : Document := object Document{};
+	document.contents += map text2Title(1,"portail fil");
+	document.name := "Portail fil";
+	//document.contents := document.contents->deepclone()->asOrderedSet();
+	portail.rootObjects().allSubobjectsOfType(Training)[Training] -> map departmentTodocument(document);
+}
+
+mapping portail_pedagogiqueMM::Training::departmentTodocument(inout doc : Document){
+		doc.contents := doc.contents->deepclone()->asOrderedSet();
+				// Nom de la formation
+		doc.contents +=  map text2Title(2, self.name);
+
+		// Présentation de la formation
+		doc.contents += map	text2Paragraph(self.presentation);
+		
+		// Responsable 
+		doc.contents += map text2StongEmphasis("Responsable");
+		doc.contents += self.educationManager -> map employee2Paragraph();
+		
+		// titre : secrétariats pédagogiques
+		doc.contents += map text2StongEmphasis("Secrétariats pédagogiques");
+		doc.contents += self.secretaries -> map employee2Paragraph();	
+		
+		// Titre : les spécialtés
+		doc.contents += map text2Title(3, "Les spécialités");
+		 
+		// Pour chaque spécialité
+		(self.specialty) -> forEach (s){
+			doc.contents := doc.contents->deepclone()->asOrderedSet();
+			// Présentation de la spécialité
+			doc.contents += map	text2Paragraph(s.presentation);
+			// Responsable 
+			doc.contents += map text2StongEmphasis("Responsable");
+			doc.contents += s.educationManager -> map employee2Paragraph();
+			// Les semestres
+			(s.semesters) -> forEach(semester){
+				doc.contents := doc.contents->deepclone()->asOrderedSet();
+				doc.contents += map text2Title(4,semester.name);			
+				(semester.subject) -> forEach(subject){
+					// Titre
+					doc.contents += map text2Title(5, subject.name);
+					// Présentation
+					doc.contents += map	text2Paragraph(subject.presentation);
+					// Responsable
+					doc.contents += map text2StongEmphasis("Responsable");
+					doc.contents +=  subject.lecturer -> map employee2Paragraph();
+					// Credit
+					doc.contents += object Paragraph {
+					elements += object StrongEmphasis { text := "Credit :" };
+					elements += object Text { text := subject.credit.toString()};
+					};		
+					doc.contents += map text2StongEmphasis("Programme");
+					(subject.sessions) -> forEach(session){
+						doc.contents := doc.contents->deepclone()->asOrderedSet();
+						if(session.type.toString() = 'LECTURE'){
+							doc.contents += map text2Emphasis('* Séance CM :');
+						}
+						else{
+							doc.contents += map text2Emphasis('* Séance ' + session.type.toString()+ ":");
+						};
+						doc.contents += map text2Paragraph("**Groupe : **" + session.group.numbe);
+						doc.contents += map text2Paragraph("**Horaire : **" + session.timeinterval.beginDate + "-"  + session.timeinterval.endDate );
+						doc.contents += map text2Paragraph("**Salle : **" + session.room.building.name + "-" + session.room.name);
+						doc.contents += map text2Paragraph("**Enseignant : **" + session.teacher.name);
+						doc.contents += map text2Paragraph("**E-mail : **" + session.teacher.emailAdress);
+					}	
+				}
+			}
+		};	
+				
+		};
+		
+
+mapping portail_pedagogiqueMM::Employee::employee2Paragraph(): simpleMarkdawnMM::Paragraph{
+			elements += object Text { text := self.name};
+			elements += object Text { text := "Bureau : " + self.office.building.name + " " + self.office.name };
+			elements += object Text { text := "Email : " + self.emailAdress };
+}
+
+mapping text2Title(in l : Integer, in t : String): simpleMarkdawnMM::Title {
+	level := l;
+	elements += object Text { text := t };
+}
+
+mapping text2StongEmphasis(in t : String): simpleMarkdawnMM::Paragraph {
+	elements += object StrongEmphasis { text := t};
+}
+
+mapping text2Emphasis(in t : String): simpleMarkdawnMM::Paragraph {
+	elements += object Emphasis { text := t};
+}
+
+mapping text2Paragraph(in presentation : String): simpleMarkdawnMM::Paragraph {
+	elements += object Text { text := presentation };
+} 
+
+helper getContentsCopy(in contents : OrderedSet(Block)): OrderedSet(Block){
+	return 	contents->deepclone()-> asOrderedSet();
+}
+
+
+
+
+
+
+
+
+
